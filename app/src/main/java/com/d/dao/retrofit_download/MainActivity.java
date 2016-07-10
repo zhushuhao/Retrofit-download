@@ -34,9 +34,6 @@ public class MainActivity extends AppCompatActivity {
                 startAndStop();
             }
         });
-
-
-
     }
 
     private void startAndStop(){
